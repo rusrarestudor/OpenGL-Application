@@ -12,3 +12,5 @@ The subject of the project consists in the photorealistic presentation of 3D obj
     - exemplify shadow computation
     - exemplify animation of object components
     - photo-realism, scene complexity, detailed modeling, algorithms development and implementation (objects generation, collision detection, shadow generation, fog, rain, wind), animation quality, different types of light sources (global, local, spotlights)
+    
+![RaresRus_gr30432_src](https://user-images.githubusercontent.com/57397996/179963001-35f630b2-0381-49b3-ad28-932a19729c89.png)
